@@ -73,7 +73,6 @@ Ready to rediscover the French roots of economic liberalism? Let's go !
 <chapterId>6a5fd101-6dfd-5d77-96c7-9e1aa4a19758</chapterId>
 
 
-:::video id=71603b6d-b9f2-418d-b11e-f5e553041794:::
 
 
 At the start of the 18th century, France was in a most worrying state. Farmers were barely producing what they needed, and were heavily taxed.
@@ -151,7 +150,6 @@ These, then, were the four principles that power had followed for several decade
 <chapterId>ee9c1e0e-96cc-5026-a5e2-963d68122786</chapterId>
 
 
-:::video id=5b518afb-42c2-4323-a795-3c381a63c249:::
 
 
 Today, as tax pressure continues to grow in our country, at the risk of stifling national economic forces, voices are being raised calling for change. Whether consciously or unconsciously, the work of French economists who, since the 17th century, have criticized French taxation as chaotic, despotic and excessive, is the common basis for these reform proposals.
@@ -217,7 +215,6 @@ Shortly before his death, his idea was adopted by Louis XIV's ministers. Only, V
 <chapterId>200149c6-b5fc-566e-ab0e-bafb1c3fed3c</chapterId>
 
 
-:::video id=9b0f86a6-5114-41e3-9fd5-1b63c525958b:::
 
 
 Few of the French economists of the past now enjoy a celebrity in their own country commensurate with their talents. Boisguilbert is no exception.
@@ -275,7 +272,6 @@ Boisguilbert blames the "good souls", as he calls them, who want the people to b
 <chapterId>bc206d41-6a64-5688-a489-40fcfa0e5397</chapterId>
 
 
-:::video id=a231a300-6392-4137-836a-ee80a659a795:::
 
 
 Author of Essai sur la nature du commerce en général (written around 1730, and published in 1755), Richard Cantillon is considered one of the pioneers of modern economics. In his History of Economic Thought, economist Murray Rothbard calls Cantillon the founder of modern economics.
@@ -339,7 +335,6 @@ Of these five major ideas in his Essay, the most important is certainly the one 
 <chapterId>13478fe2-4c12-593c-a410-54c2cfb7ef7f</chapterId>
 
 
-:::video id=8d4e110f-ea4b-450b-b702-3acf86d6362c:::
 
 
 Of all the authors we've selected to join the pantheon of 18th-century French laissez-faire thinkers, the Abbé de Saint-Pierre is undoubtedly the most misunderstood.
@@ -408,7 +403,6 @@ He also emphasized, before Vincent de Gournay, the virtues of work and the need 
 <chapterId>e9960ab4-72ec-5afd-8e97-bf89c83b62bc</chapterId>
 
 
-:::video id=c29c1507-6990-411d-8446-ffaf52d97378:::
 
 
 The Marquis d'Argenson is a forgotten founder of the laissez-faire doctrine.
@@ -474,7 +468,6 @@ On the question of the subsistence trade, d'Argenson had no answer other than fr
 <chapterId>e8ae40dc-7450-552f-9ddc-9e02936cf425</chapterId>
 
 
-:::video id=2495d360-62de-466e-9991-f53cd2fcb5dc:::
 
 
 Vincent de Gournay was one of the first representatives of laissez-faire in France, and one of its earliest advocates in public administration and intellectual circles. As such, he deserves a more than consistent mention in the history of ideas, a mention that is still rarely given to him. For my part, I have tried to highlight his merits in a recent book.
@@ -541,7 +534,6 @@ Later, Louis XVI's future minister composed an Eloge de Gournay in honor of his 
 <chapterId>b86ba6bd-8f3a-5d8f-b098-4d0413f00deb</chapterId>
 
 
-:::video id=a76e841e-40d6-463b-b542-4bd2da5aa3d6:::
 
 
 When it comes to the beginnings of economic science, history mainly remembers the first school of thought, the Physiocracy of François Quesnay and his disciples. Ten years earlier, however, there had been another, more informal, but equally important group, led by the economist Vincent de Gournay.
@@ -609,7 +601,6 @@ The Cercle de Gournay was thus at the origin of an intense publishing activity. 
 <chapterId>2d2f802b-e3b6-556f-9025-a1b1dc4409ca</chapterId>
 
 
-:::video id=d766951b-1537-4f5c-8fa2-0c1972a92ffe:::
 
 
 France has known two great Mirabeaus, father and son, but only one has gone down in history. The son Mirabeau, a revolutionary tribune and one of the central figures in the events of the French Revolution, has remained famous.
@@ -705,7 +696,6 @@ Throughout his life, Mirabeau remained a tireless writer. He was the author of n
 <chapterId>7a35f20b-5ea0-544d-b290-bcd9c6f7f11a</chapterId>
 
 
-:::video id=473c8501-aac6-4a81-af1e-e97a1a657507:::
 
 
 François Quesnay is one of France's most famous economists.
@@ -792,7 +782,6 @@ This book contains Quesnay's main contributions. It sets out the economic ideal 
 <chapterId>4236ff8b-b53a-59e7-92c0-f96f9afa1c00</chapterId>
 
 
-:::video id=5c781329-dc54-4d17-aa83-09197ee00a5b:::
 
 
 Physiocracy was fashionable not only in France, but throughout Europe, for barely a decade. After several years of slow maturation, it came to the fore in the mid-1760s. By the time Turgot came to power in 1776, it had already ceased to be popular, and the minister hid his sympathies for François Quesnay's school.
@@ -865,7 +854,6 @@ Nevertheless, Physiocracy continued to have an influence well into the Revolutio
 <chapterId>4dbe5436-0578-57c2-b054-03ed00aa091a</chapterId>
 
 
-:::video id=cbe4ff5e-2746-4554-88e4-c80438d97659:::
 
 
 The term Physiocracy, meaning "government by nature", was coined by Dupont de Nemours and given as the title of a collection of articles by Quesnay published in 1768.
@@ -961,7 +949,6 @@ Virulent opponents of slavery, the Physiocrats were also great pacifists. "Our f
 <chapterId>5b911105-796a-5e2e-a501-c7a364fc758e</chapterId>
 
 
-:::video id=24ce4c7c-e174-4834-805c-2520e983b979:::
 
 
 As we saw in the first of the three chapters devoted to the Physiocrats, Quesnay's pupils were fashionable in France for around ten years. This infatuation with their ideas continued from their time until the end of the century. Here, we look at some of the achievements they can be credited with, and the influence they exerted on their successors in the field of economic thought.
@@ -1038,7 +1025,6 @@ The leader of the Physiocrats died two years before the book's publication, and 
 <chapterId>6d585e0f-93b8-5b0a-a0a8-7f6e4a5bc68e</chapterId>
 
 
-:::video id=56b02818-93e9-48e0-8996-dbcd3d138718:::
 
 
 In the United States, DuPont, also known as "E.I. du Pont de Nemours et compagnie", is a multinational chemical and biological company.
@@ -1124,7 +1110,6 @@ Despite this busy life, during which he published dozens and dozens of articles,
 <chapterId>16bcf7bf-dad4-5113-8c64-2800f04ff07b</chapterId>
 
 
-:::video id=4201409b-36b1-4586-9605-d8b82ee03ee3:::
 
 
 The French 18th century saw the emergence of economic science and the first school of economic thought, Physiocracy. It was here that Adam Smith learned about economics, and French economists became recognized as world leaders. However, this century has not gone down in history as the century of economics, but as the century of philosophy. While the physiocratic movement's ambitions were in keeping with the philosophy of the Enlightenment, the attitude of philosophers, led by Diderot and Voltaire, deserves to be studied. We'll see that Enlightenment philosophers were instrumental in spreading the idea of laissez-faire in France.
@@ -1180,7 +1165,6 @@ In the end, the philosophers' record is mixed. In addition to praising and criti
 <chapterId>a8cd8185-8351-556b-8011-3a0c313e8a9d</chapterId>
 
 
-:::video id=79aa9047-ed34-4eb7-b5e8-789a93537205:::
 
 
 In a famous passage in his history of economic thought, American economist Murray Rothbard celebrated what he called Turgot's "brilliance",
@@ -1265,7 +1249,6 @@ This is a very clear statement of the laissez-faire doctrine, and a foreshadowin
 <chapterId>9177429f-1679-51c4-bfd2-dd036d24a1cc</chapterId>
 
 
-:::video id=24892fba-8796-4e36-8862-93c6c9570da6:::
 
 
 As we briefly mentioned in the previous chapter, Turgot was the son of a prominent family in the French civil service.
@@ -1346,7 +1329,6 @@ In the end, the parliaments and the privileged prevailed, and the King had only 
 <chapterId>0ba8dbb5-dcd5-5981-bf85-6c185e0bf192</chapterId>
 
 
-:::video id=c932d879-2fda-499d-bafc-2f834e018016:::
 
 
 Like mercantilism, which is its most obvious practical manifestation, Montaigne's sophism took a long time to disappear.
@@ -1427,7 +1409,6 @@ They therefore entirely destroy the criticisms of free trade, since protectionis
 <chapterId>99e4aba6-da7f-5041-b02f-337158381515</chapterId>
 
 
-:::video id=c91a9f8e-5690-4224-90b0-a2c50591d1b9:::
 
 
 Condorcet is certainly the most economistic philosopher of the Age of Enlightenment.
@@ -1477,7 +1458,6 @@ Although he put all his energy into defending Turgot, Condorcet had no illusions
 <chapterId>95e9a90d-e37a-58ff-b1ac-928b42e76ecf</chapterId>
 
 
-:::video id=5e2e68a8-9fe7-4aeb-8ade-248ae4153523:::
 
 
 Dupont de Nemours was the youngest disciple of François Quesnay, who had said of him: "We must look after this young man, for he will speak when we are dead." By the time the French Revolution struck, all the other leading exponents of Physiocracy were already dead, including the Marquis de Mirabeau, who managed to pass away on July 13, 1789.
@@ -1553,8 +1533,6 @@ Nor was he listened to.
 
 <chapterId>ada8082f-db96-5e52-954f-719b47998153</chapterId>
 
-
-:::video id=ec832ad6-d258-4c02-809e-a0b8c615beed:::
 
 
 French economic thought in the 18th century has remained less famous than that of the 19th century. From the point of view of the defense of liberty, however, it was in the 18th century that it all began. It was also in the 18th century that the laissez-faire principle, with all its revolutionary implications, was presented by numerous authors, from Boisguilbert to Dupont de Nemours.
