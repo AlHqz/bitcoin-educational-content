@@ -4,13 +4,11 @@ end_date: 2025-06-14 20:00:00
 timezone: America/New_York
 address_city_country: Tampa, FL, USA
 name: Bitcoin Day Tampa
-type: conference
-description: A conference focusing on Bitcoin trends, innovation, and networking.
-language:
-  - en
+type: exam
+description: description to test changes
 links:
-  website: https://bitcoinday.io/
+  website: nosite.com
 tags:
-  - innovation
-  - user-friendly
-  - adoption
+  - no
+  - tags
+  - applied
