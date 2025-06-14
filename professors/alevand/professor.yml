@@ -1,13 +1,11 @@
 id: f11a148f-63d8-4b02-8fb4-ac6130c41cb1
 name: alevand
-
 links:
-  twitter: https://x.com/alevandx
-  nostr: alevand@nostr.red
-
+  twitter: twitter.com
+  nostr: nostr.com
 tips:
-  lightning_address: alevand@getalby.com
+  lightning_address: alnaddress
 tags:
-  - finance
-  - business
-  - good-practice
+  - no
+  - tags
+  - applied
