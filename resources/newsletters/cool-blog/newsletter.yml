@@ -1,0 +1,15 @@
+id: 4c059343-5d7a-45e9-9fbc-173dfd0e0a21
+title: cool blog
+author: alhqz
+level: expert
+publication_date: 2025-07-10
+links:
+  website: web.com
+language: es
+description: |
+  a blog
+contributor_names: AlHqz
+tags:
+  - DIY
+  - backup
+  - node
